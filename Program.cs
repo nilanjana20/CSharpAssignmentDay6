@@ -6,8 +6,8 @@ public class Program
 {
 	public static void Main(string[] args)
 		{
-			//  HarmonicNumber.HarmonicNumberProgram();
-				FibonacciSeries.FibonacciSeriesProgram();
+			    // FibonacciSeries.FibonacciSeriesProgram();
+				PerfectNumber.PerfectNumberProgram();
 		}
 }
 
