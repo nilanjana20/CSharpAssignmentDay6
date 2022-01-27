@@ -8,7 +8,8 @@ public class Program
 		{
 			    // FibonacciSeries.FibonacciSeriesProgram();
 				// PerfectNumber.PerfectNumberProgram();
-				PrimeNumber.PrimeNumberProgram();
+				// PrimeNumber.PrimeNumberProgram();
+				ReverseNumber.ReverseNumberProgram();
 		}
 }
 
