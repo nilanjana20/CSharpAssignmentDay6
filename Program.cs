@@ -7,7 +7,8 @@ public class Program
 	public static void Main(string[] args)
 		{
 			    // FibonacciSeries.FibonacciSeriesProgram();
-				PerfectNumber.PerfectNumberProgram();
+				// PerfectNumber.PerfectNumberProgram();
+				PrimeNumber.PrimeNumberProgram();
 		}
 }
 
